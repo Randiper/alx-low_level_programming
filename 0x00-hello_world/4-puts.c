@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * About - prints out a string to stdout
- * return 0; (if correct)
+ * description - prints out a string to stdout
+ * return 0; (correct)
  */
 
 int main(void)
