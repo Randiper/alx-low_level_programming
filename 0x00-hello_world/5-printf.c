@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * Description: main - prints out string to stdout
- * Return: 0 if correct
+ * Return: 0 (if correct)
  */
 
 int main(void)
