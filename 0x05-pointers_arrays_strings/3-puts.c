@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _puts - this function is used to puts
+ *-puts - this function is used to puts
  * @str: a parameter to _put function 
  */
  void _puts(char *str)
