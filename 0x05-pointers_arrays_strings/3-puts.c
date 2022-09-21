@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- *-puts - this function is used to puts
- * @str: a parameter to _put function 
+ *_puts - this function is to puts
+ *@str: a parameter to _put function 
  */
  void _puts(char *str)
 {
@@ -12,4 +12,3 @@
 	}
 	_putchar('\n');
 }
-

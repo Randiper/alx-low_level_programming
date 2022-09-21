@@ -2,8 +2,8 @@
 #include <string.h>
 
 /**
- *print_rev - prints parameter in reverse
- *@s: parameter to be printed in reverse
+ *print_rev - prints a string in reverse
+ *@s: a string to be printed in reverse
  */
 
 void print_rev(char *s)
